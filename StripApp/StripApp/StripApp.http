@@ -1,0 +1,6 @@
+@StripApp_HostAddress = http://localhost:5261
+
+GET {{StripApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
