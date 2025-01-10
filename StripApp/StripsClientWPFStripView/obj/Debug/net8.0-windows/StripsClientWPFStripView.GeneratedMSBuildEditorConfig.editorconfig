@@ -11,3 +11,6 @@ build_property.RootNamespace = StripsClientWPFStripView
 build_property.ProjectDir = C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripsClientWPFStripView\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 

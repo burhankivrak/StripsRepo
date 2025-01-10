@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StripREST", "StripApp\StripREST.csproj", "{02A90AA1-7D55-47BC-994C-E5AD5BC0BD10}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StripsBL", "StripsBL\StripsBL.csproj", "{E602FE5B-E052-43F8-8124-BD1B5328544E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StripsDL", "StripsDL\StripsDL.csproj", "{D80BEF6B-64C4-41AF-BC60-F712EDC39B65}"
@@ -13,16 +11,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{DB9194
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StripsClientWPFStripView", "StripsClientWPFStripView\StripsClientWPFStripView.csproj", "{12CEDA96-F441-4EBD-A73C-EEB5FD59311F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StripREST", "StripREST\StripREST.csproj", "{9EC0205E-4177-40C1-A2E2-A984E9209B7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{02A90AA1-7D55-47BC-994C-E5AD5BC0BD10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{02A90AA1-7D55-47BC-994C-E5AD5BC0BD10}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{02A90AA1-7D55-47BC-994C-E5AD5BC0BD10}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{02A90AA1-7D55-47BC-994C-E5AD5BC0BD10}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E602FE5B-E052-43F8-8124-BD1B5328544E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E602FE5B-E052-43F8-8124-BD1B5328544E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E602FE5B-E052-43F8-8124-BD1B5328544E}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -35,6 +31,10 @@ Global
 		{12CEDA96-F441-4EBD-A73C-EEB5FD59311F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12CEDA96-F441-4EBD-A73C-EEB5FD59311F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12CEDA96-F441-4EBD-A73C-EEB5FD59311F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EC0205E-4177-40C1-A2E2-A984E9209B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC0205E-4177-40C1-A2E2-A984E9209B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC0205E-4177-40C1-A2E2-A984E9209B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC0205E-4177-40C1-A2E2-A984E9209B7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

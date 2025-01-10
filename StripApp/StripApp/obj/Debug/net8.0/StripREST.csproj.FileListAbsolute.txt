@@ -1,0 +1,11 @@
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripApp\obj\Debug\net8.0\StripREST.csproj.AssemblyReference.cache
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripApp\obj\Debug\net8.0\StripREST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripApp\obj\Debug\net8.0\StripREST.AssemblyInfoInputs.cache
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripApp\obj\Debug\net8.0\StripREST.AssemblyInfo.cs
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripApp\obj\Debug\net8.0\StripREST.csproj.CoreCompileInputs.cache
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripApp\obj\Debug\net8.0\StripREST.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripApp\obj\Debug\net8.0\StripREST.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripApp\obj\Debug\net8.0\StripREST.sourcelink.json
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripApp\obj\Debug\net8.0\StripREST.dll
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripApp\obj\Debug\net8.0\refint\StripREST.dll
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripApp\obj\Debug\net8.0\StripREST.pdb

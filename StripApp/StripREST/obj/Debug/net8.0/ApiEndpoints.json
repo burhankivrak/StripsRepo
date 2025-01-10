@@ -1,0 +1,134 @@
+[
+  {
+    "ContainingType": "StripREST.Controllers.AuteurController",
+    "Method": "Put",
+    "RelativePath": "api/Auteur",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "auteur",
+        "Type": "StripsBL.Models.Auteur",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StripREST.Controllers.ReeksController",
+    "Method": "Get",
+    "RelativePath": "api/Reeks/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "StripsBL.Models.Reeks",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StripREST.Controllers.StripController",
+    "Method": "Put",
+    "RelativePath": "api/Strip",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "strip",
+        "Type": "StripsBL.Models.Strip",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StripREST.Controllers.StripController",
+    "Method": "Get",
+    "RelativePath": "api/Strip/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "StripsBL.Models.Strip",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StripREST.Controllers.StripController",
+    "Method": "AddAuteur",
+    "RelativePath": "api/Strip/addAuteur",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "auteurS",
+        "Type": "StripsDL.Models.AuteurStrip",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StripREST.Controllers.StripController",
+    "Method": "RemoveAuteur",
+    "RelativePath": "api/Strip/removeAuteur)",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "auteurS",
+        "Type": "StripsDL.Models.AuteurStrip",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StripREST.Controllers.UitgeverijController",
+    "Method": "Put",
+    "RelativePath": "api/Uitgeverij",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "uitgeverij",
+        "Type": "StripsBL.Models.Uitgeverij",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,4 +1,8 @@
 
+using StripDL;
+using StripsBL.Interfaces;
+using StripsBL.Services;
+
 namespace StripApp
 {
     public class Program
@@ -8,6 +12,11 @@ namespace StripApp
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
+            builder.Services.AddDbContext<StripsContext>();
+            builder.Services.AddScoped<IAuteurRepository, AuteurService>();
+            builder.Services.AddScoped<IReeksRepository, ReeksService>();
+            builder.Services.AddScoped<IUitgeverijRepository, UitgeverijService>();
+            builder.Services.AddScoped<IStripRepository, StripService>();
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

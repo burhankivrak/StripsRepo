@@ -1,0 +1,28 @@
+De Zwarte Rotsen;7;Kuifje;Hergé;Casterman
+De Zonnetempel;14;Kuifje;Hergé;Casterman
+Het Sterrenkind;7;Thorgal;Rosinski,Van Hamme;Le Lombard
+Billy the Kid;20;Lucky Luke;Goscinny,Morris;Dupuis
+Het geheim van de Eenhoorn;11;Kuifje;Hergé;Casterman
+Lucky Luke tegen Pat Poker;5;Lucky Luke;Morris;Dupuis
+Calamity Jane;30;Lucky Luke;Goscinny, Morris;Dupuis
+In het spoor van de Daltons;17;Lucky Luke;Goscinny,Morris;Dupuis
+Aniël;36;Thorgal;Rosinski,Yann;Le Lombard
+Scharlaken vuur;35;Thorgal;Dorison,Rosinski;Le Lombard
+De onzichtbare vesting;19;Thorgal;Rosinski, Van Hamme;Le Lombard
+De ijskoningin;1;Thorgal;Rosinski, Van Hamme;Le Lombard
+Drie grijsaards in het land van Aran;3;Thorgal;Rosinski,Van Hamme;Le Lombard
+Alex;15;Jeremiah;Hermann;Dupuis
+Simon is terug;14;Jeremiah;Hermann;Dupuis
+Delta;11;Jeremiah;Hermann;Dupuis
+Kuifje en de Picaro's;23;Kuifje;Hergé;Casterman  
+De zonnetempel;14;Kuifje;Hergé;Casterman  
+Het waanzinnige land;3;Centaurus;Rodolphe, Janjetov, Leo;Silvester  
+Het beloofde land;1;Centaurus;Leo, Janjetov, Rodolphe;Silvester  
+Het vreemde land;2;Centaurus;Rodolphe, Janjetov, Leo;Silvester  
+Het angstaanjagende land;4;Centaurus;Leo, Janjetov, Rodolphe;Silvester  
+Suske;1;Amoras;Vandeersteen Willy;Standaard Uitgeverij  
+Jerusalem;2;Amoras;Vandeersteen Willy;Standaard Uitgeverij  
+Krimson;3;Amoras;Vandeersteen Willy;Standaard Uitgeverij  
+Lambik;4;Amoras;Vandeersteen Willy;Standaard Uitgeverij  
+Wiske;5;Amoras;Vandeersteen Willy;Standaard Uitgeverij  
+Barabas;6;Amoras;Vandeersteen Willy;Standaard Uitgeverij  

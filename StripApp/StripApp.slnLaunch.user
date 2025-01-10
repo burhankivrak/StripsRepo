@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "StripApp\\StripREST.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

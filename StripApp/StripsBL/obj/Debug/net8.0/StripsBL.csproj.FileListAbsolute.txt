@@ -1,0 +1,16 @@
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripsBL\bin\Debug\net8.0\StripsBL.deps.json
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripsBL\bin\Debug\net8.0\StripsBL.dll
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripsBL\bin\Debug\net8.0\StripsBL.pdb
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripsBL\bin\Debug\net8.0\StripsDL.dll
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripsBL\bin\Debug\net8.0\StripsDL.pdb
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripsBL\obj\Debug\net8.0\StripsBL.csproj.AssemblyReference.cache
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripsBL\obj\Debug\net8.0\StripsBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripsBL\obj\Debug\net8.0\StripsBL.AssemblyInfoInputs.cache
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripsBL\obj\Debug\net8.0\StripsBL.AssemblyInfo.cs
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripsBL\obj\Debug\net8.0\StripsBL.csproj.CoreCompileInputs.cache
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripsBL\obj\Debug\net8.0\StripsBL.sourcelink.json
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripsBL\obj\Debug\net8.0\StripsBL.csproj.Up2Date
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripsBL\obj\Debug\net8.0\StripsBL.dll
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripsBL\obj\Debug\net8.0\refint\StripsBL.dll
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripsBL\obj\Debug\net8.0\StripsBL.pdb
+C:\Users\burha\Desktop\HoGent 2024-2025\Semester 1\PG 2\Opdracht Strips\StripsRepo\StripApp\StripsBL\obj\Debug\net8.0\ref\StripsBL.dll
